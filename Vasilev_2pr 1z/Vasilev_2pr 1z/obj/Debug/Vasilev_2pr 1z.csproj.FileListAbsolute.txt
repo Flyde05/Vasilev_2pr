@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\bin\Debug\Vasilev_2pr 1z.exe.config
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\bin\Debug\Vasilev_2pr 1z.exe
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\bin\Debug\Vasilev_2pr 1z.pdb
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\obj\Debug\Vasilev_2pr 1z.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\obj\Debug\Vasilev_2pr 1z_MarkupCompile.cache
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\obj\Debug\Vasilev_2pr 1z_MarkupCompile.lref
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\obj\Debug\Vasilev_2pr 1z.g.resources
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\obj\Debug\Vasilev_2pr_1z.Properties.Resources.resources
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\obj\Debug\Vasilev_2pr 1z.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\obj\Debug\Vasilev_2pr 1z.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\obj\Debug\Vasilev_2pr 1z.exe
+C:\Users\user\source\repos\Vasilev_2pr 1z\Vasilev_2pr 1z\obj\Debug\Vasilev_2pr 1z.pdb
